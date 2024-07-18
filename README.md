@@ -1,4 +1,3 @@
 # connor-bio-readme
-Hello my name is Connor White and I go to school at Eldred Junior Senior Highschool in New York. I love to program and play soccer. I hope to collaborate with others and create an impressive portfolio of projects during my time on GitHub.
-
+Hello, I am Connor White, a senior at Eldred Junior Senior Highschool in New York. I love programming and soccer and support SSC Napoli in Serie A. I joined Github to meet and collaborate with other people in order to create impressive projects that I can add to my portfolio.
  
